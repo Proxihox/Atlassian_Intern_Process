@@ -25,4 +25,7 @@ Lets say we are hosting meetings on zoom, which has the breakout room feature, w
 
 ### Solution
 I wasn't asked to code this, due to time constraints, just explain my logic. The logic was to maintain an array of arrays(matrix). Each array in this matrix, is a breakout room and has the start and end times of the meetings scheduled in it. We try to fit every meeting into the first breakout room. If that isnt possible, we try to fit it into the second, and if that is again not possible, it tries the third and so on.
-The number of breakout rooms created 
+The number of breakout rooms created is the answer.
+
+## Round 3 - Leadership something something (Basically HR round)
+Was taken by a senior engineer at Atlassian. Asked me about my experience working in a team. Questions like "Give an example of when you finished a project solely based on your motivation." and "Give an example of a time you took up a leadership position in a project.", etc. 
